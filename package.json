@@ -1,14 +1,14 @@
 {
-  "name": "bar8-cf-project-exemple-01",
+  "name": "bar8-cf-project-exemple-005",
   "version": "1.0.0",
-  "description": "Example - How to Deploy an application using SCP",
+  "description": "Example - How to Deploy an application using Docker + SCP",
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erickcarvalho/bar8-cf-exemplo01"
+    "url": "git+https://github.com/erickcarvalho/bar8-cf-exemplo005"
   },
   "author": "Erick Carvalho - Bar8",
   "license": "ISC",

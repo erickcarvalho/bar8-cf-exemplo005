@@ -9,5 +9,5 @@ app.get("/", (req,res)=>{
 })
 
 app.listen(config.port, function () {
-    console.log("Don't panic - Project Bar8 + Cloud Foundry is alive!");
+    console.log("Don't panic - Project Bar8 + Cloud Foundry + Docker is alive!");
 });
